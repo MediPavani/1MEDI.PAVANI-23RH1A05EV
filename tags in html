@@ -1,0 +1,16 @@
+Tags in html
+<h1> to <h6> size of the heading
+<p> -> used to display paragraph
+<pre>->display paragraph in the same formar
+<b>->make text bols
+<i>->italic
+<u>->underline
+<img>use to display image
+<a>->link to another
+<a href="about.html">Second page</a>
+<iframe src="">->display external image,audio,video,pages,maps other web pages
+<div>->divide the webpage into multiple portion
+<table><tr><th><td>
+<form> related tags
+1.Ordered List    <ol>
+2.UnOrdered List  <ul>
